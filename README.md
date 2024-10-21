@@ -14,6 +14,6 @@ Multi-app friendly UPI QR Code: Generates QR codes that work seamlessly across p
 - Python’s qrcode library
 
 # Requirements
-- qrcode library (to generate qr)
-- pillow library (to save qr)
+- qrcode library (to generate QR)
+- pillow library (to save QR)
 - we need UPI Id qr code format which is available in Google.Simply or search UPI-Id qr code format in your browser.
