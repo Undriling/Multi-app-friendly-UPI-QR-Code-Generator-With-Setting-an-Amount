@@ -1,5 +1,5 @@
 # Multi-App-Friendly UPI QR Code Generator with Amount Setting
-This is a Python-based web application that allows users to generate UPI QR codes compatible with multiple payment apps while providing the option to set a predefined amount for the transaction.
+This is a Python-based application that allows users to generate UPI QR codes compatible with multiple payment apps while providing the option to set a predefined amount for the transaction.
 
 # Features
 Multi-app friendly UPI QR Code: Generates QR codes that work seamlessly across popular UPI-based payment apps (Google Pay, Paytm, PhonePe, etc.).
